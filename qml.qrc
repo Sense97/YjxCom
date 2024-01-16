@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml_src/SerialManager.qml</file>
+        <file>qml_src/DataDisplay.qml</file>
+        <file>qml_src/DataSend.qml</file>
+        <file>qml_src/Configure.qml</file>
+        <file>qml_src/FiliterConfig.qml</file>
+    </qresource>
+</RCC>

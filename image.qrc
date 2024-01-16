@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image" lang="image">
+        <file>image/cat.jpg</file>
+        <file>image/delete.png</file>
+        <file>image/send.png</file>
+        <file>image/settings.png</file>
+    </qresource>
+</RCC>
